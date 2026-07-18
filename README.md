@@ -132,5 +132,5 @@ https://github.com/DeveshBanote/Terraform-project-.git
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: **www.linkedin.com/in/devesh-banote-b69753279**
+- 💼 LinkedIn: **www.linkedin.com/in/deveshbanote**
 - 📧 Email: **deveshbanote2005@gmail.com**
